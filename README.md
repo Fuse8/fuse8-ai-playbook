@@ -11,6 +11,9 @@
 
 Рекомендуется смотреть базу знаний через Obsidian.
 
+## Получение доступа к инструментам
+- [Codex](./docs/ai-tools-access/codex.md)
+
 ## Практики
 - [Работа с разными AI инструментами на одном проекте](./practices/multiple-ai-tools-in-one-project.md)
 
