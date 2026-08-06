@@ -11,6 +11,9 @@
 
 Рекомендуется смотреть базу знаний через Obsidian.
 
+## Общее
+- [База по ai](./docs/ai-basics/README.md)
+
 ## Получение доступа к инструментам
 - [Codex](./docs/ai-tools-access/codex.md)
 
