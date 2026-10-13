@@ -23,3 +23,13 @@
 ## Скиллы
 - [Оформление README и документации](./skills/readme-docs-structure/SKILL.md)
 - [Синхронизация AI-инструкций](./skills/ai-workflow-manager/SKILL.md)
+
+# Полезные материалы
+
+- [Cursor learning course](https://cursor.com/learn)
+- [ИИ для самых маленьких: как работает LLM и ИИ-агент — Диджитализируй!](https://www.youtube.com/watch?v=sSAIC8GQRe8)
+- [AI Coding Playbook](https://aicodingplaybook.ru/)
+- [Agentic Coding Design Patterns — Кирилл Мокевнин](https://mokevnin.github.io/agentic-coding-design-patterns/ru/)
+- Лайвкодинг от Кирилла Мокевнина:
+  - [Часть 1](https://www.youtube.com/watch?v=Eplxom-e1C4) — параллельная работа над несколькими задачами.
+  - [Часть 2](https://www.youtube.com/watch?v=CVJ01XSmHEY) — можно пропустить вступление о работе в консоли, если неактуально.
