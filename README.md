@@ -13,6 +13,7 @@
 
 ## Общее
 - [База по ai](./docs/ai-basics/README.md)
+- [Своя база знаний](./docs/tips/01-knowledge-base.md)
 
 ## Получение доступа к инструментам
 - [Codex](./docs/ai-tools-access/codex.md)
