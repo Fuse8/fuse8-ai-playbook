@@ -22,12 +22,11 @@ export default defineConfig({
         { text: 'Своя база знаний', link: '/docs/tips/knowledge-base' },
       ] },
       { text: 'Практики', items: [
-        { text: 'AI workflow', link: '/practices/ai-workflow' },
-        { text: 'Разные AI инструменты', link: '/practices/multiple-ai-tools-in-one-project' },
+        { text: 'AI workflow', link: '/docs/practices/ai-workflow' },
+        { text: 'Если в проекте несколько AI', link: '/docs/practices/multiple-ai-tools-in-one-project' },
       ] },
       { text: 'Скиллы', items: [
-        { text: 'Оформление документации', link: '/skills/readme-docs-structure/SKILL' },
-        { text: 'Синхронизация AI-инструкций', link: '/skills/ai-workflow-manager/SKILL' },
+        { text: 'Оформление документации', link: '/docs/skills/readme-docs-structure' },
       ] },
       { text: 'Полезные материалы', link: '/docs/useful-materials' },
     ],

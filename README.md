@@ -25,13 +25,12 @@
 
 ## Практики
 
-- [AI workflow](./practices/ai-workflow.md)
-- [Разные AI инструменты](./practices/multiple-ai-tools-in-one-project.md)
+- [AI workflow](./docs/practices/ai-workflow.md)
+- [Если в проекте несколько AI](./docs/practices/multiple-ai-tools-in-one-project.md)
 
 ## Скиллы
 
-- [Оформление документации](./skills/readme-docs-structure/SKILL.md)
-- [Синхронизация AI-инструкций](./skills/ai-workflow-manager/SKILL.md)
+- [Оформление документации](./docs/skills/readme-docs-structure.md)
 
 ## Полезные материалы
 

@@ -1,0 +1,9 @@
+@media (min-width: 960px) {
+  .skill-page .VPDoc .container {
+    max-width: 1200px;
+  }
+
+  .skill-page .VPDoc .content-container {
+    max-width: none;
+  }
+}
