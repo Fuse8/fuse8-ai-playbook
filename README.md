@@ -2,31 +2,40 @@
 
 Внутренняя база знаний по использованию AI в разработке для Backend, Frontend и QA специалистов.
 
-База знаний должна помогать:
+База знаний помогает:
 
-- гайд по основам разработке с помощью AI
-- быстро вводить новых разработчиков в ключевые практики компании;
-- фиксировать полезные практики, подводные камни;
-- иметь единый источник правды по инструментам и процессам;
+- изучать основы применения AI в разработке;
+- знакомить новых разработчиков с практиками компании;
+- сохранять полезные практики и сведения о подводных камнях;
+- находить актуальную информацию об инструментах и процессах.
 
-Рекомендуется смотреть базу знаний через Obsidian.
+## Основы AI
 
-## Общее
-- [База по ai](./docs/ai-basics/README.md)
-- [Своя база знаний](./docs/tips/01-knowledge-base.md)
+- [Общее](./docs/ai-basics/01-common.md)
+- [LLM](./docs/ai-basics/02-llm.md)
+- [Стоимость токенов](./docs/ai-basics/03-token-pricing.md)
 
-## Получение доступа к инструментам
+## Доступ к инструментам
+
 - [Codex](./docs/ai-tools-access/codex.md)
 
+## Советы
+
+- [Своя база знаний](./docs/tips/knowledge-base.md)
+
 ## Практики
-- [Работа с разными AI инструментами на одном проекте](./practices/multiple-ai-tools-in-one-project.md)
+
+- [AI workflow](./practices/ai-workflow.md)
+- [Разные AI инструменты](./practices/multiple-ai-tools-in-one-project.md)
 
 ## Скиллы
-- [Оформление README и документации](./skills/readme-docs-structure/SKILL.md)
+
+- [Оформление документации](./skills/readme-docs-structure/SKILL.md)
 - [Синхронизация AI-инструкций](./skills/ai-workflow-manager/SKILL.md)
 
-# Полезные материалы
+## Полезные материалы
 
+<!-- #region materials -->
 - [Cursor learning course](https://cursor.com/learn)
 - [ИИ для самых маленьких: как работает LLM и ИИ-агент — Диджитализируй!](https://www.youtube.com/watch?v=sSAIC8GQRe8)
 - [AI Coding Playbook](https://aicodingplaybook.ru/)
@@ -34,3 +43,4 @@
 - Лайвкодинг от Кирилла Мокевнина:
   - [Часть 1](https://www.youtube.com/watch?v=Eplxom-e1C4) — параллельная работа над несколькими задачами.
   - [Часть 2](https://www.youtube.com/watch?v=CVJ01XSmHEY) — можно пропустить вступление о работе в консоли, если неактуально.
+<!-- #endregion materials -->
